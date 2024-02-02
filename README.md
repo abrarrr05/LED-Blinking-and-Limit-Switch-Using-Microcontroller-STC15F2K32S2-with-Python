@@ -1,5 +1,5 @@
-Di atas merupakan hasil akhir dari proyek yang dikerjakan. Proyek diatas menggunakan mikrokontroler STC15F2K32S2 yang terintegrasi dengan Python untuk diberikan perintah. Komponen proyek diatas terdiri dari 4 LED dan 4 Limit Switch. Dimana, masing-masing dari komponen tersebut memiliki kegunaannya masing-masing dalam bidang mesin ATM atau Self Service Banking (SSB).
+Above is the final result of the project carried out. The project above uses the STC15F2K32S2 microcontroller which is integrated with Python to give commands. The project components above consist of 4 LEDs and 4 Limit Switches. Where, each of these components has its own use in the field of ATM machines or Self Service Banking (SSB).
 
-SALAM
+BEST REGARDS
 
 TIM NORXEL UNNES UNDIP
